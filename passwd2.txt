@@ -1,0 +1,20 @@
+benjamin:jw7bLTLTw5peg:501:501:Benjamin Franklin Linn:/home/benjamin:/bin/bash
+otis:SDrnjVdyJTNzQ:502:502:Otis B. Driftwood:/home/otis:/bin/bash
+quentin:r4VOIS9lHdya6:503:503:S. Quentin Quale:/home/quentin:/bin/ksh
+quincy:UmES9L0Tb6Fl2:504:504:Quincy Adams Wagstaff:/home/quincy:/bin/zsh
+gordon:t3V1ADUYHOYlY:505:505:Gordon Miller:/home/gordon:/bin/bash
+horatio:pTxitF/YpLBJY:506:506:Horatio Jamison:/home/horatio:/bin/bash
+emily:wsH0aRBWoVL1s:507:507:Emily Upjohn:/home/emily:/bin/bash
+emmanuel:aWw.AfAoMpcgQ:508:508:Emmanuel Ravelli:/home/emmanuel:/bin/bash
+harry:hFhptAmxY4iG.:509:509:Harry Binelli:/home/harry:/bin/bash
+cheever:uSdmHsogTv2Uc:510:510:J. Cheever Loophole:/home/cheever:/bin/bash
+george:.kSYsmVhdUPm.:511:511:George Schmidlap:/home/george:/bin/bash
+frank:f8InWN4cTFiks:512:512:Frank Wagstaff:/home/frank:/bin/bash
+lionel:kcT7SyQ1gQhuk:513:513:Lionel Q. Devereaux:/home/lionel:/bin/dash
+arabella:XMogALdELfGqQ:514:514:Arabella Rittenhouse:/home/arabella:/bin/zsh
+rosa:Pp8ZLI.Yu/oTI:515:515:Rosa Castaldi:/home/rosa:/bin/bash
+wolf:/qN4padXrVvgc:516:516:Wolf J. Flywheel:/home/wolf:/bin/zsh
+sammy:YHAggkVQ1ET.w:517:517:Sammy Brown:/home/sammy:/bin/zsh
+bob:X/4Gjie4ZMA3U:518:518:Bob Roland:/home/bob:/bin/bash
+rufus:NL7XYB5QtrROI:519:519:Rufus T. Firefly:/home/rufus:/bin/bash
+sam:WAK6p8it8NGYQ:520:520:Sam Grunion:/home/sam:/bin/bash
